@@ -3,7 +3,7 @@
 This is a responsive eCommerce website page built with HTML and CSS, showcasing a multi-color chair product. 
 
 ## Demo 
-[Link to Live Demo](your-demo-link) 
+[Link to Live Demo]('https://umakant3525.github.io/modern_chair_web/') 
 
 # Technologies Used 
 - HTML
